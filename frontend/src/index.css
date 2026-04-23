@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Aptos, "Segoe UI Variable Text", "Trebuchet MS", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f5efe4;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
