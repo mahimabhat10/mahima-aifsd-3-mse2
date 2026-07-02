@@ -13,20 +13,20 @@ https://mse2fsd-kzln.onrender.com/
 
 ##  Features-
 
-- 🔐 Secure User Authentication (JWT)
-- 👤 Student Registration & Login
-- 📝 Submit New Grievances
-- 🔍 Search Grievances by Title
-- ✏️ Update Existing Grievances
-- 🗑️ Delete Grievances
-- 📊 Track Complaint Status
-- 📅 Complaint Date Management
-- 📱 Responsive User Interface
-- ☁️ Cloud Deployment using Vercel & Render
+- Secure User Authentication (JWT)
+- Student Registration & Login
+- Submit New Grievances
+- Search Grievances by Title
+- Update Existing Grievances
+- Delete Grievances
+- Track Complaint Status
+- Complaint Date Management
+- Responsive User Interface
+- Cloud Deployment using Vercel & Render
 
 ---
 
-## 🛠️ Tech Stack-
+## Tech Stack-
 
 ### Frontend
 - React.js
@@ -94,7 +94,7 @@ npm run dev
 
 
 
-## 📋 Functionalities
+## Functionalities
 
 - User Registration
 - User Login
@@ -108,7 +108,7 @@ npm run dev
 
 ---
 
-## 🔒 Authentication
+## Authentication
 
 JWT (JSON Web Token) is used to authenticate users and protect secured API routes.
 
@@ -116,7 +116,7 @@ Passwords are securely encrypted using **bcrypt.js** before storing them in the 
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
 - Admin Dashboard
 - Email Notifications
@@ -128,7 +128,7 @@ Passwords are securely encrypted using **bcrypt.js** before storing them in the 
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Mahima Bhat**
 
@@ -138,6 +138,6 @@ KIET Group of Institutions
 
 ---
 
-## 📄 License
+## License
 
 This project is developed for educational purposes.
